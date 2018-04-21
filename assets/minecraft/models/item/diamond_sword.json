@@ -29,6 +29,9 @@
 		{ "predicate": {"damaged": 0, "damage": 0.014734144778987828}, "model": "item/diamond_sword/sbd-rolling"},
 		{ "predicate": {"damaged": 0, "damage": 0.015374759769378603}, "model": "item/diamond_sword/sbd-flying"},
 		{ "predicate": {"damaged": 0, "damage": 0.016015374759769378}, "model": "item/diamond_sword/sbd-rightwing"},
-		{ "predicate": {"damaged": 0, "damage": 0.016655989750160153}, "model": "item/diamond_sword/sbd-bomb"}
+		{ "predicate": {"damaged": 0, "damage": 0.016655989750160153}, "model": "item/diamond_sword/sbd-bomb"},
+		{ "predicate": {"damaged": 0, "damage": 0.017296604740550928}, "model": "item/diamond_sword/suisei-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.017937219730941704}, "model": "item/diamond_sword/suisei-rolling"},
+		{ "predicate": {"damaged": 0, "damage": 0.018577834721332479}, "model": "item/diamond_sword/suisei-flying"}
 	]
 }
