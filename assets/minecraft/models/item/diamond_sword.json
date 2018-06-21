@@ -32,6 +32,17 @@
 		{ "predicate": {"damaged": 0, "damage": 0.016655989750160153}, "model": "item/diamond_sword/sbd-bomb"},
 		{ "predicate": {"damaged": 0, "damage": 0.017296604740550928}, "model": "item/diamond_sword/suisei-parking"},
 		{ "predicate": {"damaged": 0, "damage": 0.017937219730941704}, "model": "item/diamond_sword/suisei-rolling"},
-		{ "predicate": {"damaged": 0, "damage": 0.018577834721332479}, "model": "item/diamond_sword/suisei-flying"}
+		{ "predicate": {"damaged": 0, "damage": 0.018577834721332479}, "model": "item/diamond_sword/suisei-flying"},
+		{ "predicate": {"damaged": 0, "damage": 0.019218449711723254}, "model": "item/diamond_sword/ju87-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.019859064702114029}, "model": "item/diamond_sword/ju87-flying"},
+		{ "predicate": {"damaged": 0, "damage": 0.020499679692504804}, "model": "item/diamond_sword/ju87-rightwing"},
+		{ "predicate": {"damaged": 0, "damage": 0.021140294682895579}, "model": "item/diamond_sword/ju87-bomb"},
+		{ "predicate": {"damaged": 0, "damage": 0.021780909673286354}, "model": "item/diamond_sword/il2-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.022421524663677130}, "model": "item/diamond_sword/il2-rolling"},
+		{ "predicate": {"damaged": 0, "damage": 0.023062139654067905}, "model": "item/diamond_sword/il2-flying"},
+		{ "predicate": {"damaged": 0, "damage": 0.023702754644458680}, "model": "item/diamond_sword/il2-rightwing"},
+		{ "predicate": {"damaged": 0, "damage": 0.024343369634849455}, "model": "item/diamond_sword/firefly-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.024983984625240230}, "model": "item/diamond_sword/firefly-rolling"},
+		{ "predicate": {"damaged": 0, "damage": 0.025624599615631005}, "model": "item/diamond_sword/firefly-flying"}
 	]
 }
