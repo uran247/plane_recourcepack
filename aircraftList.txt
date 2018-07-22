@@ -39,3 +39,6 @@ Durability	Aircraft
 38			Fairey Firefly(Parking) 
 39			Fairey Firefly(Rolling) 
 40			Fairey Firefly(Flying) 
+41			Dewoitine D.520(Parking)
+42			Dewoitine D.520(Rolling)
+43			Dewoitine D.520(Flying)
