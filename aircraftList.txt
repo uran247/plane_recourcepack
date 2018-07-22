@@ -42,3 +42,8 @@ Durability	Aircraft
 41			Dewoitine D.520(Parking)
 42			Dewoitine D.520(Rolling)
 43			Dewoitine D.520(Flying)
+44			Nakajima B6N Tenzan(Parking)
+45			Nakajima B6N Tenzan(Rolling)
+46			Nakajima B6N Tenzan(Flying)
+47			Nakajima B6N Tenzan(Right wing)
+48			Type91 Torpedo
