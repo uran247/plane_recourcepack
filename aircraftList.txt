@@ -47,3 +47,7 @@ Durability	Aircraft
 46			Nakajima B6N Tenzan(Flying)
 47			Nakajima B6N Tenzan(Right wing)
 48			Type91 Torpedo
+49			Fairey Swordfish(Parking)
+50			Fairey Swordfish(Rolling)
+51			Fairey Swordfish(Right wing)
+52			1670lb torpedo
