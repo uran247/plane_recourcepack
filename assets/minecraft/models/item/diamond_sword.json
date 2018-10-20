@@ -55,6 +55,9 @@
 		{ "predicate": {"damaged": 0, "damage": 0.031390134529147982}, "model": "item/diamond_sword/swordfish-parking"},
 		{ "predicate": {"damaged": 0, "damage": 0.032030749519538757}, "model": "item/diamond_sword/swordfish-flying"},
 		{ "predicate": {"damaged": 0, "damage": 0.032671364509929532}, "model": "item/diamond_sword/swordfish-rightwing"},
-		{ "predicate": {"damaged": 0, "damage": 0.033311979500320307}, "model": "item/diamond_sword/1670lb-torpedo"}
+		{ "predicate": {"damaged": 0, "damage": 0.033311979500320307}, "model": "item/diamond_sword/1670lb-torpedo"},
+		{ "predicate": {"damaged": 0, "damage": 0.033952594490711082}, "model": "item/diamond_sword/bf109-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.034593209481101857}, "model": "item/diamond_sword/bf109-rolling"},
+		{ "predicate": {"damaged": 0, "damage": 0.035233824471492632}, "model": "item/diamond_sword/bf109-flying"}
 	]
 }

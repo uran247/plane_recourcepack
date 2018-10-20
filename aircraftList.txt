@@ -51,3 +51,6 @@ Durability	Aircraft
 50			Fairey Swordfish(Rolling)
 51			Fairey Swordfish(Right wing)
 52			1670lb torpedo
+53			Messerschmitt Bf 109(Parking)
+54			Messerschmitt Bf 109(Rolling)
+55			Messerschmitt Bf 109(Flying)
