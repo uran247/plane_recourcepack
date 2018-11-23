@@ -54,3 +54,6 @@ Durability	Aircraft
 53			Messerschmitt Bf 109(Parking)
 54			Messerschmitt Bf 109(Rolling)
 55			Messerschmitt Bf 109(Flying)
+56			Republic P-47 Thunderbolt(Parking)
+57			Republic P-47 Thunderbolt(Rolling)
+58			Republic P-47 Thunderbolt(Flying)
