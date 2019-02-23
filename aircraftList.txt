@@ -62,4 +62,6 @@ Durability	Aircraft
 61			Lavochkin La-5(Flying)
 62			North American F-86(Parking)
 63			North American F-86(Flying)
-
+64			Vought F4U Corsair(Right wing)
+65			Vought F4U Corsair(Left wing)
+66			HVAR
