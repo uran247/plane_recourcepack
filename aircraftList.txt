@@ -47,3 +47,19 @@ Durability	Aircraft
 46			Nakajima B6N Tenzan(Flying)
 47			Nakajima B6N Tenzan(Right wing)
 48			Type91 Torpedo
+49			Fairey Swordfish(Parking)
+50			Fairey Swordfish(Rolling)
+51			Fairey Swordfish(Right wing)
+52			1670lb torpedo
+53			Messerschmitt Bf 109(Parking)
+54			Messerschmitt Bf 109(Rolling)
+55			Messerschmitt Bf 109(Flying)
+56			Republic P-47 Thunderbolt(Parking)
+57			Republic P-47 Thunderbolt(Rolling)
+58			Republic P-47 Thunderbolt(Flying)
+59			Lavochkin La-5(Parking)
+60			Lavochkin La-5(Rolling)
+61			Lavochkin La-5(Flying)
+62			North American F-86(Parking)
+63			North American F-86(Flying)
+

@@ -1,0 +1,1081 @@
+{
+	"__comment": "Designed by Uran2471 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "items/particle",
+		"texture": "items/texture",
+		"swordfish-rightwing": "custom/swordfish-rightwing"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 5.6667, -3.6667 ],
+			"to": [ 30, 6.6667, 1.666634 ],
+			"faces": {
+				"down": { "uv": [ 0, 14, 2.25, 16 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 0, 14, 2.25, 12 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 4.5, 11.375, 2.25, 11.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 2.25, 11, 4.5, 11.375 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 2.25, 8.375, 4.25, 8.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 4.25, 8, 2.25, 8.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 5.6667, 1.6667 ],
+			"to": [ 29.33333, 6.6667, 2.000033 ],
+			"faces": {
+				"down": { "uv": [ 14, 14.625, 16, 14.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 10.125, 9.875, 12.125, 9.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 4.625, 13.625, 6.625, 14 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 14.375, 8.5, 14.5, 8.875 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 4.625, 11.375, 4.5, 11.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 5.6667, 2 ],
+			"to": [ 28.66667, 6.6667, 2.333333 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 11, 14, 11.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 14, 11.125, 15.75, 11 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 4.625, 10.125, 6.375, 10.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 14.25, 9, 14.375, 9.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.375, 9.375, 14.25, 9.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 6, -4 ],
+			"to": [ 30, 6.666667, -3.666667 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 11.75, 12.375, 11.875 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.375, 11.875, 14.625, 11.75 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 12.25, 15.375, 10, 15.625 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 15.375, 9.375, 15.5, 9.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.375, 9.375, 15.25, 9.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 6, 2.3333 ],
+			"to": [ 30, 6.666667, 2.666633 ],
+			"faces": {
+				"down": { "uv": [ 12.875, 15.625, 15.125, 15.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 10.625, 15.75, 12.875, 15.625 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 15.125, 15.75, 12.875, 16 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.625, 15.75, 12.875, 16 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 14.875, 9.375, 15, 9.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.875, 9.375, 14.75, 9.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 6, 2.6667 ],
+			"to": [ 29.66667, 6.666667, 3.000033 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 10, 12.25, 10.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 10.125, 10.25, 12.25, 10.125 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 11.875, 15.125, 14, 15.375 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 14.625, 9.375, 14.75, 9.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.625, 8, 14.5, 8.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 6, 3 ],
+			"to": [ 29, 6.666667, 3.333333 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 8.625, 12, 8.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 10.125, 9.125, 12, 9 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.25, 14.75, 12.125, 15 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 14.5, 8.25, 14.625, 8.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.375, 8, 14.25, 8.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 6, 3.3333 ],
+			"to": [ 28.33333, 6.666667, 3.666633 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 10.5, 13.875, 10.625 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 13.875, 10.625, 15.5, 10.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14.375, 15.375, 16, 15.625 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 14.125, 8, 14.25, 8.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.125, 8, 14, 8.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 6, 3.6667 ],
+			"to": [ 27.66667, 6.666667, 4.000033 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 9.625, 13.625, 9.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 14.625, 11.875, 16, 11.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.125, 13.25, 11.5, 13.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 13.625, 8.25, 13.75, 8.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 13.625, 8.25, 13.5, 8.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 6.6667, -3.3333 ],
+			"to": [ 30.33333, 7.000033, 1.333367 ],
+			"faces": {
+				"down": { "uv": [ 2.25, 12.5, 4.625, 14.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 2.25, 16, 4.625, 14.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 12.5, 11.875, 10.125, 12 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 12.5, 12, 14.875, 12.125 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 12.25, 11.375, 14, 11.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14, 11.125, 12.25, 11.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 6.6667, 1.3333 ],
+			"to": [ 29.66667, 7.000033, 1.666633 ],
+			"faces": {
+				"up": { "uv": [ 10.125, 10.625, 12.25, 10.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.125, 10.75, 12.25, 10.875 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 10, 8.75, 10.125, 8.875 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 12.5, 15.875, 12.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 6.6667, 1.6667 ],
+			"to": [ 29, 7.000033, 2.000033 ],
+			"faces": {
+				"up": { "uv": [ 10.125, 8.625, 12, 8.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.125, 9.125, 12, 9.25 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 12, 8.5, 12.125, 8.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 12.125, 8.25, 12, 8.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 13.6667, -4 ],
+			"to": [ 25.33333, 15.00003, 0.666667 ],
+			"faces": {
+				"down": { "uv": [ 0, 10.25, 0.5, 12 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 0, 10.25, 0.5, 8.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.25, 8.5, 7.75, 9 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 0, 8, 0.5, 8.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 0.5, 11, 2.25, 11.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 2.25, 11.5, 0.5, 12 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 13.6667, 0.6667 ],
+			"to": [ 29.66667, 14.6667, 1.6667 ],
+			"faces": {
+				"down": { "uv": [ 2.25, 9.125, 4.375, 9.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 2.25, 9.875, 4.375, 9.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 4.375, 9.875, 2.25, 10.25 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 2.25, 8.75, 4.375, 9.125 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 8.875, 8.375, 9.25, 8.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 10, 9.75, 9.625, 10.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 13.6667, 1.6667 ],
+			"to": [ 29.33333, 14.6667, 2.6667 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 12.5, 6.625, 12.875 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 4.625, 13.25, 6.625, 12.875 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 4.625, 14.5, 6.625, 14.875 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 9.75, 11, 10.125, 11.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 4.625, 8, 4.25, 8.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 13.6667, 2.6667 ],
+			"to": [ 29, 14.6667, 3.333367 ],
+			"faces": {
+				"down": { "uv": [ 14, 14.75, 15.875, 15 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 8.875, 14.625, 10.75, 14.375 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 4.625, 11, 6.5, 11.375 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 4.375, 9.125, 4.625, 9.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.875, 13.5, 8.625, 13.875 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 13.6667, 3.3333 ],
+			"to": [ 29, 14.33337, 3.666633 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 8.25, 12, 8.375 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 10.125, 8.5, 12, 8.375 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.75, 14.375, 12.625, 14.625 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 10, 12.625, 10.125, 12.875 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 14.75, 15.875, 15 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 13.6667, 3.6667 ],
+			"to": [ 28.66667, 14.33337, 4.000033 ],
+			"faces": {
+				"down": { "uv": [ 14, 11.5, 15.75, 11.625 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.25, 11.625, 14, 11.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 0.5, 8, 2.25, 8.25 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 15.875, 13.75, 16, 14 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.75, 8.625, 15.625, 8.875 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 13.6667, 4 ],
+			"to": [ 28.33333, 14.33337, 4.333333 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 10.625, 13.875, 10.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.25, 10.875, 13.875, 10.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.125, 13.5, 11.75, 13.75 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 15.5, 8.625, 15.625, 8.875 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.25, 8.125, 15.125, 8.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 13.6667, 4.3333 ],
+			"to": [ 28, 14.33337, 4.666634 ],
+			"faces": {
+				"down": { "uv": [ 13.75, 10.25, 15.25, 10.375 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.25, 10.375, 13.75, 10.25 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14.5, 14.375, 16, 14.625 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 15.125, 8.375, 15.25, 8.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 8.875, 15.875, 9.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 13.6667, 4.6667 ],
+			"to": [ 27.66667, 14.33337, 5.000033 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 9.5, 13.625, 9.625 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.25, 9.25, 13.625, 9.125 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14.25, 13.25, 15.625, 13.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 15.75, 8.875, 15.875, 9.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.375, 8.875, 15.25, 9.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24, 14, -5 ],
+			"to": [ 27.33333, 15, -4 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 14, 11.375, 14.375 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 11.375, 14.375, 12.625, 14 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 13.875, 14, 12.625, 14.375 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 13.875, 14, 15.125, 14.375 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 4.25, 8.375, 4.625, 8.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 9.25, 8, 8.875, 8.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 24.6667, 15, -4 ],
+			"to": [ 32.0000, 15.33333, -3 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 15.25, 7.375, 15.625 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 4.625, 16, 7.375, 15.625 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 14.25, 13.25, 11.5, 13.375 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 11.5, 13.375, 14.25, 13.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 15.625, 13.25, 16, 13.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 12.125, 15.625, 12.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 25, 14.6667, 0.6667 ],
+			"to": [ 31.66667, 15.00003, 1.000033 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 12.5, 12.625, 12.625 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.625, 12.625, 15.125, 12.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 12.625, 12.375, 10.125, 12.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 12.625, 12.375, 15.125, 12.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 12, 8.625, 12.125, 8.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 12.25, 8.75, 12.125, 8.875 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 25, 15, -4.3333 ],
+			"to": [ 32, 15.33333, -3.999967 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 12.875, 12.75, 13 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.75, 13, 15.375, 12.875 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 12.75, 12.75, 10.125, 12.875 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 12, 9, 12.125, 9.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.375, 9, 7.25, 9.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 25, 15, -3 ],
+			"to": [ 32, 15.33333, -2.666667 ],
+			"faces": {
+				"down": { "uv": [ 12.75, 12.75, 15.375, 12.875 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 10.125, 12.75, 12.75, 12.625 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 12.875, 13.125, 15.5, 13.25 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 12.875, 8, 13, 8.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 12.875, 8, 12.75, 8.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 25.3333, 13.6667, -3.6667 ],
+			"to": [ 26.3333, 15.00003, 0.6666336 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 12.375, 7.75, 14 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.375, 15.625, 7.75, 14 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.625, 8, 8.25, 8.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.25, 8.5, 8.625, 9 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 2.125, 9.75, 0.5, 10.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 25.3333, 14, -4 ],
+			"to": [ 31.66663, 15, -3.666667 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 12.125, 12.5, 12.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 4.625, 12.125, 2.25, 12.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 2.25, 11.75, 4.625, 12.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.75, 9.75, 15.625, 10.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 25.3333, 14.3333, 3.3333 ],
+			"to": [ 29.99997, 14.66663, 3.666633 ],
+			"faces": {
+				"down": { "uv": [ 14, 11.375, 15.75, 11.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.25, 11.375, 14, 11.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 15.75, 11.25, 14, 11.375 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.125, 8.125, 11.875, 8.25 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 15.75, 11, 15.875, 11.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 10.375, 15.875, 10.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 25.6667, 15, -2.6667 ],
+			"to": [ 32.0000, 15.33333, -2.333367 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 12.25, 14.875, 12.375 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 10.125, 12.125, 12.5, 12 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 12.5, 11.875, 14.875, 12 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 12, 9.375, 12.125, 9.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 12.25, 9.375, 12.125, 9.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 26.3333, 13.6667, -3.3333 ],
+			"to": [ 26.99997, 15.00003, 0.6667001 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 10.875, 7.625, 12.375 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.375, 10.875, 7.625, 9.375 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 2.25, 8.25, 2, 8.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 2, 9.25, 2.25, 9.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 2, 9.25, 0.5, 9.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 26.3333, 14, -3.6667 ],
+			"to": [ 31.99997, 15, -3.333367 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 11.625, 12.25, 11.75 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 4.375, 10.25, 2.25, 10.625 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 2.25, 10.625, 4.375, 11 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.625, 8.5, 14.5, 8.875 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 26.3333, 14.6667, 1 ],
+			"to": [ 31.3333, 15.00003, 1.333333 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 9.5, 12, 9.625 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 10.125, 9.375, 12, 9.25 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.125, 8.75, 12, 8.875 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 12, 9.25, 12.125, 9.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 12.25, 9.25, 12.125, 9.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 26.3333, 15, -4.6667 ],
+			"to": [ 31.99997, 15.33333, -4.333366 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 11.5, 12.25, 11.625 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 10.125, 11.125, 12.25, 11 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 12.25, 10.875, 10.125, 11 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 12.125, 8.5, 12.25, 8.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 11.5, 15.875, 11.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 26.3333, 15, -2.3333 ],
+			"to": [ 31.99997, 15.33333, -1.999967 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 9.875, 12.25, 10 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 11.875, 15.125, 14, 15 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.125, 11.375, 12.25, 11.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 15.75, 11.5, 15.875, 11.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.875, 11.375, 15.75, 11.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 27, 13.6667, -3 ],
+			"to": [ 27.66667, 15.00003, 0.6666667 ],
+			"faces": {
+				"down": { "uv": [ 7.75, 9.75, 8, 11.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.375, 9.375, 7.625, 8 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 2.25, 8.75, 2, 9.25 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 7.125, 8.5, 7.375, 9 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.375, 10.5, 6, 11 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 27, 14, -3.3333 ],
+			"to": [ 32, 15, -2.999967 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 9.375, 12, 9.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 4.625, 11.75, 6.5, 12.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.125, 9, 14, 9.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 27, 14.3333, 3.6667 ],
+			"to": [ 29, 14.66663, 4.000033 ],
+			"faces": {
+				"down": { "uv": [ 15, 13.875, 15.75, 14 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15, 13.875, 15.75, 13.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 15.125, 12.375, 15.875, 12.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 13.625, 9.625, 13.75, 9.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 13.75, 9.5, 13.625, 9.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 27.3333, 14, -4.6667 ],
+			"to": [ 29.66663, 15, -4.000033 ],
+			"faces": {
+				"down": { "uv": [ 8, 9.875, 8.875, 10.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.125, 16, 16, 15.75 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 7.375, 11, 6.5, 11.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 4.625, 8.75, 4.375, 9.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 27.3333, 14.3333, -5 ],
+			"to": [ 31.66663, 14.99997, -4.666667 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 10.875, 13.875, 11 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 13.875, 11, 15.5, 10.875 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 11.75, 13.75, 10.125, 14 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 11.75, 13.75, 13.375, 14 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.75, 9.125, 14.625, 9.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 27.3333, 14.6667, 1.3333 ],
+			"to": [ 30.66663, 15.00003, 1.666633 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 9.375, 10.125, 9.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 8.875, 9.375, 10.125, 9.25 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.875, 9.5, 10.125, 9.625 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 8.75, 9.75, 8.875, 9.875 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 14, 15.875, 14.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 27.3333, 15, -2 ],
+			"to": [ 31.99997, 15.33333, -1.666667 ],
+			"faces": {
+				"down": { "uv": [ 14, 11.125, 15.75, 11.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 10.125, 8.125, 11.875, 8 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14, 11.625, 15.75, 11.75 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 12.125, 8.25, 12.25, 8.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.875, 11.625, 15.75, 11.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 27.6667, 13.6667, -2.6667 ],
+			"to": [ 28.00003, 15.00003, 0.6666336 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 9.625, 9, 10.875 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.625, 9.375, 7.75, 8.125 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.875, 14.375, 8.75, 14.875 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.75, 13.875, 8.875, 14.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.125, 8.5, 5.875, 9 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 27.6667, 14, -3 ],
+			"to": [ 32.0000, 15, -2.666667 ],
+			"faces": {
+				"down": { "uv": [ 13.875, 10.75, 15.5, 10.875 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 9, 15.625, 10.625, 16 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 10.125, 9.75, 10, 10.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 27.6667, 14, 4.6667 ],
+			"to": [ 28.33336, 14.33333, 5.000033 ],
+			"faces": {
+				"down": { "uv": [ 8.625, 11.875, 8.875, 12 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 8.625, 12.5, 8.875, 12.375 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.875, 12.875, 8.625, 13 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.625, 13.375, 8.875, 13.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 13.75, 9.25, 13.625, 9.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28, 13.6667, -2.3333 ],
+			"to": [ 28.33333, 15.00003, 0.6667001 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 8, 12.375, 9.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.375, 9.125, 12.5, 8 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.75, 10.625, 8.625, 11.125 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.75, 10.625, 8.875, 11.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.875, 14.875, 7.75, 15.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28, 14, -2.6667 ],
+			"to": [ 32, 15, -2.333367 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 10.125, 13.75, 10.25 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.375, 15, 11.875, 15.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.625, 8.875, 14.5, 9.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28, 14, 4.3333 ],
+			"to": [ 29, 14.33333, 4.666634 ],
+			"faces": {
+				"down": { "uv": [ 13.375, 8, 13.75, 8.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 13.375, 8.25, 13.75, 8.125 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 14.75, 9.625, 14.375, 9.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 15.5, 10.125, 15.875, 10.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 12.125, 8.75, 12, 8.875 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28, 15, -1.6667 ],
+			"to": [ 32, 15.33333, -1.333367 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 9.875, 13.75, 10 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.25, 9.875, 13.75, 9.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 13.75, 10.375, 15.25, 10.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 12.125, 8.625, 12.25, 8.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 12.75, 8, 12.625, 8.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28.3333, 13.6667, -2 ],
+			"to": [ 28.66663, 15.00003, 0.6666667 ],
+			"faces": {
+				"down": { "uv": [ 12.875, 8.125, 13, 9.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.5, 9.125, 12.625, 8.125 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.75, 10.125, 8.625, 10.625 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.75, 10.125, 8.875, 10.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.75, 13.875, 7.75, 14.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28.3333, 14, -2.3333 ],
+			"to": [ 31.99997, 15, -1.999967 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 9.25, 13.625, 9.375 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14, 15, 15.375, 15.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.75, 9.75, 14.625, 10.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28.3333, 14, 4 ],
+			"to": [ 29.66663, 14.33333, 4.333333 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 13, 16, 13.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.5, 12.125, 16, 12 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 16, 11.875, 15.5, 12 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 15.5, 10.875, 16, 11 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 11.375, 15.875, 11.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28.6667, 6, 2 ],
+			"to": [ 30.33336, 6.666667, 2.333333 ],
+			"faces": {
+				"down": { "uv": [ 15.25, 10.25, 15.875, 10.375 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 14.875, 12, 15.5, 11.875 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 16, 15.125, 15.375, 15.375 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 9.125, 11.125, 9.75, 11.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.75, 8.125, 14.625, 8.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28.6667, 13.6667, -1.6667 ],
+			"to": [ 29.00003, 15.00003, 0.6666335 ],
+			"faces": {
+				"down": { "uv": [ 13.125, 8.25, 13.25, 9.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 13.25, 9.125, 13.375, 8.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.875, 8.5, 8.75, 9 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 9.75, 8, 9.875, 8.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.625, 13.375, 7.75, 13.875 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28.6667, 14, -2 ],
+			"to": [ 32.0000, 15, -1.666667 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 9, 10.125, 9.125 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.875, 13.625, 10.125, 14 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.375, 8.625, 14.25, 9 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28.6667, 14, 3.6667 ],
+			"to": [ 30.00003, 14.33333, 4.000033 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 10.75, 16, 10.875 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.5, 10.75, 16, 10.625 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 16, 10.5, 15.5, 10.625 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14, 10.125, 14.5, 10.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 12.25, 9.125, 12.125, 9.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 28.6667, 15, -1.3333 ],
+			"to": [ 31.6667, 15.33333, -0.9999666 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 8.75, 10, 8.875 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 14.875, 13.75, 16, 13.625 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14.875, 12.25, 16, 12.375 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 15.875, 10.125, 16, 10.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.625, 9.625, 15.5, 9.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29, 13.6667, -1 ],
+			"to": [ 29.33333, 15.00003, 0.6666667 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 8.5, 13.625, 9.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 13.625, 9.125, 13.75, 8.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 14, 8.5, 13.875, 9 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 13.875, 8, 14, 8.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.625, 10.625, 8, 11.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29, 14, -1.6667 ],
+			"to": [ 32, 15, -1.000033 ],
+			"faces": {
+				"down": { "uv": [ 7.75, 9.25, 8.875, 9.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.75, 9.75, 8.875, 9.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 7.75, 11.125, 8.875, 11.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 4.625, 10.625, 4.375, 11 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29, 14, 2.6667 ],
+			"to": [ 30.66667, 14.66667, 3.000033 ],
+			"faces": {
+				"down": { "uv": [ 15.375, 12.75, 16, 12.875 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.375, 13, 16, 12.875 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 9.625, 10.625, 9, 10.875 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 9.125, 10.875, 9.75, 11.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.875, 9, 8.75, 9.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29, 14, 3 ],
+			"to": [ 30.33333, 14.66667, 3.333333 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 10.125, 15, 10.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15, 10.25, 15.5, 10.125 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 9.625, 10.625, 10.125, 10.875 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.875, 13.75, 15.75, 14 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29, 14, 3.3333 ],
+			"to": [ 30, 14.33333, 3.666633 ],
+			"faces": {
+				"down": { "uv": [ 9.75, 10.875, 10.125, 11 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 11.625, 15.875, 11.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.3333, 6, 1.6667 ],
+			"to": [ 30.66663, 6.666667, 2.000033 ],
+			"faces": {
+				"down": { "uv": [ 9.625, 9.625, 10.125, 9.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 9.25, 8.25, 9.75, 8.125 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 10.125, 10.125, 9.625, 10.375 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 9.25, 8.5, 9.75, 8.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 13.25, 8, 13.125, 8.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.3333, 13.6667, -0.3333 ],
+			"to": [ 29.66663, 15.00003, 0.6667 ],
+			"faces": {
+				"down": { "uv": [ 14.75, 9.75, 14.875, 10.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 14.875, 10.125, 15, 9.75 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 2.25, 10.5, 2.125, 11 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 2.125, 9.75, 2.25, 10.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.125, 8, 7.75, 8.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.3333, 14, -1 ],
+			"to": [ 31.99997, 15, -0.3333333 ],
+			"faces": {
+				"down": { "uv": [ 7.75, 9, 8.75, 9.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 6.375, 9.375, 7.375, 9.125 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 6.375, 10.125, 7.375, 10.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.875, 12.5, 8.625, 12.875 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.3333, 14, 1.6667 ],
+			"to": [ 31.3333, 14.66667, 2.000033 ],
+			"faces": {
+				"down": { "uv": [ 14.875, 12.125, 15.625, 12.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 6.625, 13, 7.375, 12.875 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 7.375, 12.625, 6.625, 12.875 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 6.625, 13, 7.375, 13.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.25, 9.375, 15.125, 9.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.3333, 14, 2 ],
+			"to": [ 30.99997, 14.66667, 2.333333 ],
+			"faces": {
+				"down": { "uv": [ 15.375, 15, 16, 15.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.375, 12.75, 16, 12.625 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 9.125, 11.375, 9.75, 11.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.75, 9.375, 15.625, 9.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.3333, 14, 2.3333 ],
+			"to": [ 30.66663, 14.66667, 2.666633 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 8, 9.75, 8.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.5, 13.25, 16, 13.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 9.375, 15.875, 9.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.6667, 14, -4.3333 ],
+			"to": [ 31.6667, 15, -3.999967 ],
+			"faces": {
+				"down": { "uv": [ 6.625, 12.5, 7.375, 12.625 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 7.375, 13.25, 6.625, 13.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.125, 9.375, 14, 9.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.6667, 14, -0.3333 ],
+			"to": [ 32.0000, 15, 0.3333667 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 13.125, 9.75, 13.375 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.125, 14.375, 16, 14.125 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 6.5, 11.75, 7.375, 12.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 4.625, 9.5, 4.375, 9.875 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.6667, 14, 0.3333 ],
+			"to": [ 31.6667, 15, 0.6666334 ],
+			"faces": {
+				"down": { "uv": [ 8, 9.75, 8.75, 9.875 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.125, 14.125, 15.875, 14 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 6.625, 13.625, 7.375, 14 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.625, 9.75, 15.5, 10.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.6667, 14, 0.6667 ],
+			"to": [ 31.6667, 14.66667, 1.333367 ],
+			"faces": {
+				"down": { "uv": [ 9.125, 12.375, 9.875, 12.625 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 9.125, 12.375, 9.875, 12.125 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 9.125, 11.625, 9.875, 11.875 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 10.125, 11.875, 9.875, 12.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.6667, 14, 1.3333 ],
+			"to": [ 31.33336, 14.66667, 1.666633 ],
+			"faces": {
+				"down": { "uv": [ 14.875, 12, 15.5, 12.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.25, 10.5, 15.875, 10.375 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15, 9.125, 14.875, 9.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 29.6667, 14.3333, -4.6667 ],
+			"to": [ 32.0000, 14.99997, -4.333366 ],
+			"faces": {
+				"down": { "uv": [ 6.375, 9.375, 7.25, 9.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 9.75, 12.875, 8.875, 13.125 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.875, 12.625, 9.75, 12.875 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.25, 9.125, 15.125, 9.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30, 5.6667, -3.3333 ],
+			"to": [ 30.33333, 6.6667, 1.333367 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 10.875, 9, 12.625 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 14.25, 8.625, 14.125, 9 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14.125, 8.25, 14.25, 8.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 6.375, 9, 4.625, 9.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30, 6, -3.6667 ],
+			"to": [ 30.33333, 6.666667, -3.333367 ],
+			"faces": {
+				"down": { "uv": [ 12.125, 9.75, 12.25, 9.875 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.875, 10.375, 16, 10.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 14.75, 8.625, 14.625, 8.875 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.75, 9.125, 15.625, 9.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30, 6, 1.3333 ],
+			"to": [ 31, 6.666667, 1.666633 ],
+			"faces": {
+				"down": { "uv": [ 11.875, 8, 12.25, 8.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 11.875, 8.25, 12.25, 8.125 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 10.125, 13.125, 9.75, 13.375 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 9.75, 12.875, 10.125, 13.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 16, 9.125, 15.875, 9.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30.3333, 5.6667, -3 ],
+			"to": [ 30.66663, 7.000033, 1 ],
+			"faces": {
+				"down": { "uv": [ 7.625, 10.875, 7.75, 12.375 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.625, 10.875, 7.75, 9.375 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.25, 8, 8.125, 8.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.625, 8.5, 8.75, 9 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 4.625, 14, 6.125, 14.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 2, 8.75, 0.5, 9.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30.3333, 5.6667, 1 ],
+			"to": [ 30.66663, 6.6667, 1.333333 ],
+			"faces": {
+				"down": { "uv": [ 12, 8.875, 12.125, 9 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.125, 9, 12.25, 8.875 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14.125, 9.375, 14.25, 9.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.875, 9.75, 15.75, 10.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30.3333, 6, -3.3333 ],
+			"to": [ 30.66663, 6.666667, -2.999967 ],
+			"faces": {
+				"down": { "uv": [ 15.75, 11.25, 15.875, 11.375 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.875, 11.375, 16, 11.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 14.875, 8.875, 14.75, 9.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.875, 8.375, 14.75, 8.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30.3333, 15, -1 ],
+			"to": [ 31.3333, 15.33333, -0.6666666 ],
+			"faces": {
+				"up": { "uv": [ 9.75, 11.625, 10.125, 11.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14.75, 9.625, 15.125, 9.75 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 13.625, 9.125, 13.75, 9.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 12.625, 8, 12.5, 8.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30.6667, 5.6667, -2.6667 ],
+			"to": [ 31.00003, 7.000033, 0.6666336 ],
+			"faces": {
+				"down": { "uv": [ 13.75, 9, 13.875, 10.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 13.875, 10.25, 14, 9 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 10, 8, 9.875, 8.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10, 8, 10.125, 8.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 5.875, 8, 4.625, 8.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30.6667, 5.6667, 0.6667 ],
+			"to": [ 31.00003, 6.6667, 1.000033 ],
+			"faces": {
+				"down": { "uv": [ 15.875, 15.625, 16, 15.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.625, 8.125, 7.75, 8 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14.25, 8.25, 14.375, 8.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.25, 9.75, 15.125, 10.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30.6667, 6, -3 ],
+			"to": [ 31.00003, 6.666667, -2.666667 ],
+			"faces": {
+				"down": { "uv": [ 15.875, 12.375, 16, 12.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.625, 9.75, 15.75, 9.625 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 15, 8.875, 14.875, 9.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15, 8.125, 14.875, 8.375 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 30.6667, 6, 1 ],
+			"to": [ 31.33336, 6.666667, 1.333333 ],
+			"faces": {
+				"down": { "uv": [ 12, 9.625, 12.25, 9.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12, 9.625, 12.25, 9.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.875, 8, 8.625, 8.25 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 9.875, 13.375, 10.125, 13.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.25, 8.875, 15.125, 9.125 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 31, 5.6667, -2 ],
+			"to": [ 31.33333, 7.000033, 0.3333335 ],
+			"faces": {
+				"down": { "uv": [ 13.375, 8.25, 13.5, 9.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 13, 9.125, 13.125, 8.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 13.875, 8.5, 13.75, 9 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 13.75, 8, 13.875, 8.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.625, 12.375, 7.75, 12.875 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 31, 5.6667, 0.3333 ],
+			"to": [ 31.33333, 6.6667, 0.6666334 ],
+			"faces": {
+				"down": { "uv": [ 12, 8.375, 12.125, 8.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.125, 8.5, 12.25, 8.375 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 14.25, 9.75, 14.375, 10.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 14.125, 8.25, 14, 8.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 31, 6, -2.6667 ],
+			"to": [ 31.33333, 6.666667, -2.000033 ],
+			"faces": {
+				"down": { "uv": [ 14.75, 8.125, 14.875, 8.375 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.375, 9.125, 15.5, 8.875 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 15.625, 8.875, 15.5, 9.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 10.125, 12.375, 9.875, 12.625 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 31, 6, 0.6667 ],
+			"to": [ 31.33333, 6.666667, 1.000033 ],
+			"faces": {
+				"down": { "uv": [ 15.75, 11.125, 15.875, 11.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.875, 11.25, 16, 11.125 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 15.25, 8.625, 15.125, 8.875 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 31.3333, 6, -2 ],
+			"to": [ 31.66663, 6.666667, 0.6666667 ],
+			"faces": {
+				"down": { "uv": [ 12.75, 8.125, 12.875, 9.125 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 12.625, 9.125, 12.75, 8.125 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 15.375, 8.625, 15.25, 8.875 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 15.375, 8.625, 15.5, 8.875 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 8.875, 13.375, 9.875, 13.625 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.375, 9.5, 6.375, 9.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 31.6667, 14.3333, -4.3333 ],
+			"to": [ 32.0000, 14.99997, -3.666633 ],
+			"faces": {
+				"down": { "uv": [ 15.75, 8.625, 15.875, 8.875 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 15.875, 8.875, 16, 8.625 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 9.875, 11.625, 10.125, 11.875 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.875, 8.25, 8.625, 8.5 ], "texture": "#swordfish-rightwing" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ 8, -28, 17.5 ],
+			"scale":  [ 3.775, 3.975, 3.975 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ 9, -28, 17.5 ],
+			"scale":  [ 3.775, 3.975, 3.975 ]
+		}
+	}
+}
