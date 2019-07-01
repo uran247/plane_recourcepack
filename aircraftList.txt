@@ -62,4 +62,30 @@ Durability	Aircraft
 61			Lavochkin La-5(Flying)
 62			North American F-86(Parking)
 63			North American F-86(Flying)
+64			Vought F4U Corsair(Right wing)
+65			Vought F4U Corsair(Left wing)
+66			HVAR
+67			Nakajima Ki-43(Parking)
+68			Nakajima Ki-43(Rolling)
+69			Nakajima Ki-43(Flying)
+70			Nakajima Ki-43 kotobuki(Parking)
+71			Nakajima Ki-43 kotobuki(Rolling)
+72			Nakajima Ki-43 kotobuki(Flying)
+73			Aichi D3A(Parking)
+74			Aichi D3A(Flying)
+75			Aichi D3A(Right wing)
+76			type97 No.6 bomb
+77			No.25 bomb
+78			Mitsubishi Ki-21(parking)
+79			Mitsubishi Ki-21()
+80			Mitsubishi Ki-21(flying)
+81			Mitsubishi Ki-21(right wing)
+82			Mitsubishi Ki-21(left wing)
+83			Mitsubishi Ki-21(tail)
+84			type94-50kg-bomb
+85			Mitsubishi A5M(parking)
+86			Mitsubishi A5M(flying)
+87			Mitsubishi A6M2(parking)
+88			Mitsubishi A6M2(rolling)
+89			Mitsubishi A6M2(flying)
 
