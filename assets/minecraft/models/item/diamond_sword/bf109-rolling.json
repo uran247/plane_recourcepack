@@ -12419,12 +12419,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 4.5 ],
 			"scale":  [ 3.31, 3.31, 3.31 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 4.5 ],
 			"scale":  [ 3.31, 3.31, 3.31 ]
 		}

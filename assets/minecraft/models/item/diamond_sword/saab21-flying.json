@@ -6143,12 +6143,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, -18.78, 19 ],
 			"scale":  [ 3.867, 3.867, 3.867 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, -18.78, 19 ],
 			"scale":  [ 3.867, 3.867, 3.867 ]
 		}

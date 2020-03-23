@@ -8904,12 +8904,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 9.5 ],
 			"scale":  [ 3.83, 3.83, 3.83 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 9.5 ],
 			"scale":  [ 3.83, 3.83, 3.83 ]
 		}

@@ -9245,12 +9245,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -37, 0, 14 ],
 			"scale":  [ 3.667, 3.667, 3.667 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ 25, 0, 14 ],
 			"scale":  [ 3.667, 3.667, 3.667 ]
 		}

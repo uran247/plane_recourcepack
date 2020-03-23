@@ -11551,12 +11551,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -25, 0, 26 ],
 			"scale":  [ 3.748, 3.748, 3.748 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ 13, 0, 26 ],
 			"scale":  [ 3.748, 3.748, 3.748 ]
 		}

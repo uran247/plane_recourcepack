@@ -8055,12 +8055,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 8 ],
 			"scale":  [ 3.53, 3.53, 3.53 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 8 ],
 			"scale":  [ 3.53, 3.53, 3.53 ]
 		}

@@ -677,12 +677,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ 17.68, 0, 12 ],
 			"scale":  [ 3.867, 3.867, 3.867 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ 18, 0, 12 ],
 			"scale":  [ 3.867, 3.867, 3.867 ]
 		}

@@ -22369,12 +22369,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 18 ],
 			"scale":  [ 3.8, 3.8, 3.8 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 18 ],
 			"scale":  [ 3.8, 3.8, 3.8 ]
 		}

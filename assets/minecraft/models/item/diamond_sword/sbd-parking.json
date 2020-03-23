@@ -9267,12 +9267,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -33, 0, 11.5 ],
 			"scale":  [ 3.36, 3.36, 3.36 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ 21, 0, 11.5 ],
 			"scale":  [ 3.36, 3.36, 3.36 ]
 		}

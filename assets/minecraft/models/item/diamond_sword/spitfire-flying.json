@@ -6467,12 +6467,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 0 ],
 			"scale":  [ 3.16, 3.16, 3.16 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 0 ],
 			"scale":  [ 3.16, 3.16, 3.16 ]
 		}

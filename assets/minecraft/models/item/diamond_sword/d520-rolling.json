@@ -8297,12 +8297,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 8.5 ],
 			"scale":  [ 3.39, 3.39, 3.39 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 0 ],
+			
 			"translation":  [ -6, 0, 8.5 ],
 			"scale":  [ 3.39, 3.39, 3.39 ]
 		}

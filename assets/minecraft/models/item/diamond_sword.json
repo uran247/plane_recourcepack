@@ -1,9 +1,10 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "items/diamond_sword"
+		"layer0": "item/diamond_sword"
 	},
 	"overrides": [
+		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/diamond_sword"},
 		{ "predicate": {"damaged": 0, "damage": 0.0006402048655569782}, "model": "item/diamond_sword/f4u-parking"},
 		{ "predicate": {"damaged": 0, "damage": 0.0012804097311139564}, "model": "item/diamond_sword/f4u-rolling"},
 		{ "predicate": {"damaged": 0, "damage": 0.0019206145966709346}, "model": "item/diamond_sword/f4u-flying"},
@@ -30,9 +31,9 @@
 		{ "predicate": {"damaged": 0, "damage": 0.015374759769378603}, "model": "item/diamond_sword/sbd-flying"},
 		{ "predicate": {"damaged": 0, "damage": 0.016015374759769378}, "model": "item/diamond_sword/sbd-rightwing"},
 		{ "predicate": {"damaged": 0, "damage": 0.016655989750160153}, "model": "item/diamond_sword/sbd-bomb"},
-		{ "predicate": {"damaged": 0, "damage": 0.017296604740550928}, "model": "item/diamond_sword/suisei-parking"},
-		{ "predicate": {"damaged": 0, "damage": 0.017937219730941704}, "model": "item/diamond_sword/suisei-rolling"},
-		{ "predicate": {"damaged": 0, "damage": 0.018577834721332479}, "model": "item/diamond_sword/suisei-flying"},
+		{ "predicate": {"damaged": 0, "damage": 0.017296604740550928}, "model": "item/diamond_sword/d4y-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.017937219730941704}, "model": "item/diamond_sword/d4y-rolling"},
+		{ "predicate": {"damaged": 0, "damage": 0.018577834721332479}, "model": "item/diamond_sword/d4y-flying"},
 		{ "predicate": {"damaged": 0, "damage": 0.019218449711723254}, "model": "item/diamond_sword/ju87-parking"},
 		{ "predicate": {"damaged": 0, "damage": 0.019859064702114029}, "model": "item/diamond_sword/ju87-flying"},
 		{ "predicate": {"damaged": 0, "damage": 0.020499679692504804}, "model": "item/diamond_sword/ju87-rightwing"},
@@ -92,7 +93,27 @@
 		{ "predicate": {"damaged": 0, "damage": 0.055092889173606662}, "model": "item/diamond_sword/a5m-flying"},
 		{ "predicate": {"damaged": 0, "damage": 0.055733504163997437}, "model": "item/diamond_sword/a6m2-parking"},
 		{ "predicate": {"damaged": 0, "damage": 0.056374119154388212}, "model": "item/diamond_sword/a6m2-rolling"},
-		{ "predicate": {"damaged": 0, "damage": 0.057014734144778987}, "model": "item/diamond_sword/a6m2-flying"}
+		{ "predicate": {"damaged": 0, "damage": 0.057014734144778987}, "model": "item/diamond_sword/a6m2-flying"},
+		{ "predicate": {"damaged": 0, "damage": 0.057655349135169762}, "model": "item/diamond_sword/ki-44-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.058295964125560538}, "model": "item/diamond_sword/ki-44-rolling"},
+		{ "predicate": {"damaged": 0, "damage": 0.058936579115951313}, "model": "item/diamond_sword/ki-44-flying"},
+		{ "predicate": {"damaged": 0, "damage": 0.059577194106342088}, "model": "item/diamond_sword/j2m3-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.060217809096732863}, "model": "item/diamond_sword/j2m3-rolling"},
+		{ "predicate": {"damaged": 0, "damage": 0.060858424087123638}, "model": "item/diamond_sword/j2m3-flying"},
+		{ "predicate": {"damaged": 0, "damage": 0.061499039077514413}, "model": "item/diamond_sword/g4m1-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.062139654067905188}, "model": "item/diamond_sword/g4m1-rolling"},
+		{ "predicate": {"damaged": 0, "damage": 0.062780269058295964}, "model": "item/diamond_sword/g4m1-flying"},
+		{ "predicate": {"damaged": 0, "damage": 0.063420884048686739}, "model": "item/diamond_sword/g4m1-tail"},
+		{ "predicate": {"damaged": 0, "damage": 0.064061499039077514}, "model": "item/diamond_sword/g4m1-rightwing"},
+		{ "predicate": {"damaged": 0, "damage": 0.064702114029468289}, "model": "item/diamond_sword/g4m1-leftwing"},
+		{ "predicate": {"damaged": 0, "damage": 0.065342729019859064}, "model": "item/diamond_sword/ki-61-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.065983344010249839}, "model": "item/diamond_sword/ki-61-rolling"},
+		{ "predicate": {"damaged": 0, "damage": 0.066623959000640614}, "model": "item/diamond_sword/ki-61-flying"},
+		{ "predicate": {"damaged": 0, "damage": 0.067264573991031390}, "model": "item/diamond_sword/type50mod2bomb"},
+		{ "predicate": {"damaged": 0, "damage": 0.067905188981422165}, "model": "item/diamond_sword/type3no1mk28mod1bomb"},
+		{ "predicate": {"damaged": 0, "damage": 0.068545803971812940}, "model": "item/diamond_sword/n1k2-parking"},
+		{ "predicate": {"damaged": 0, "damage": 0.069186418962203715}, "model": "item/diamond_sword/n1k2-rolling"},
+		{ "predicate": {"damaged": 0, "damage": 0.069827033952594490}, "model": "item/diamond_sword/n1k2-flying"}
 
 	]
 }
