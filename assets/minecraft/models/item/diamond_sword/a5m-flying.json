@@ -3,7 +3,8 @@
 	"textures": {
 		"particle": "items/particle",
 		"texture": "items/texture",
-		"a5m-flying": "custom/a5m-flying"
+		"a5m-flying": "custom/a5m-flying",
+		"propeller": "custom/empty"
 	},
 	"elements": [ 	 
 		{

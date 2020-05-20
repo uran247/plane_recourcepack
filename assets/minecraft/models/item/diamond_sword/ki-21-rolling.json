@@ -2,12 +2,8 @@
 	"__comment": "Designed by Uran2471 with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "items/particle",
-		"texture": "side-line",
-		"texture1": "top-line",
-		"texture2": "bottom-line",
-		"texture3": "side-color",
-		"texture4": "top-cilor",
-		"voxels_atlas": "custom/ki-21-rolling"
+		"voxels_atlas": "custom/ki-21-rolling",
+		"propeller": "custom/ki-21-propeller"
 	},
 	"elements": [ 	 
 		{
@@ -15933,6 +15929,32 @@
 				"south": { "uv": [ 5.84375, 6.625, 5.90625, 6.65625 ], "texture": "#voxels_atlas" },
 				"west": { "uv": [ 5.84375, 6.59375, 5.90625, 6.625 ], "texture": "#voxels_atlas" },
 				"east": { "uv": [ 5.90625, 6.5625, 5.84375, 6.59375 ], "texture": "#voxels_atlas" }
+			}
+		},
+		{
+			"__comment": "Box7",
+			"from": [ -12, 3.2, -4 ],
+			"to": [ 3.2, 18.4, -4 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#propeller" },
+				"up": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#propeller" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#propeller" },
+				"south": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#propeller" },
+				"west": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#propeller" },
+				"east": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#propeller" }
+			}
+		},
+		{
+			"__comment": "Box7",
+			"from": [ 12.8, 3.2, -4 ],
+			"to": [ 28, 18.4, -4 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#propeller" },
+				"up": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#propeller" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#propeller" },
+				"south": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#propeller" },
+				"west": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#propeller" },
+				"east": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#propeller" }
 			}
 		}
 	],

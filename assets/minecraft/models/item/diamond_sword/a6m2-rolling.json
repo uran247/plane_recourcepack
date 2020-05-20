@@ -2,7 +2,8 @@
 	"__comment": "Designed by Uran2471 with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "items/particle",
-		"a6m2-rolliing": "custom/a6m2-rolliing"
+		"a6m2-rolliing": "custom/a6m2-rolliing",
+		"a6m2-propeller": "custom/a6m2-propeller"
 	},
 	"elements": [ 	 
 		{
@@ -14420,6 +14421,19 @@
 				"south": { "uv": [ 6.15625, 7.53125, 6.21875, 7.5625 ], "texture": "#a6m2-rolliing" },
 				"west": { "uv": [ 14.28125, 9.734375, 14.3125, 9.765625 ], "texture": "#a6m2-rolliing" },
 				"east": { "uv": [ 14.34375, 9.734375, 14.3125, 9.765625 ], "texture": "#a6m2-rolliing" }
+			}
+		},
+		{
+			"__comment": "propeller",
+			"from": [ 2.125, 2.5, -8.75 ],
+			"to": [ 13.875, 14.25, -8.75 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 1, 1 ], "texture": "#a6m2-propeller" },
+					"up": { "uv": [ 0, 0, 1, 1  ], "texture": "#a6m2-propeller" },
+					"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#a6m2-propeller" },
+					"south": { "uv": [ 0, 0, 1, 1  ], "texture": "#a6m2-propeller" },
+					"west": { "uv": [ 0, 0, 1, 1  ], "texture": "#a6m2-propeller" },
+					"east": { "uv": [ 0, 0, 1, 1  ], "texture": "#a6m2-propeller" }
 			}
 		}
 	],

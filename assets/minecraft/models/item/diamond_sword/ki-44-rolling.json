@@ -2,7 +2,7 @@
 	"__comment": "Designed by Uran2471 with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "items/particle",
-		"texture8": "custom/empty",
+		"texture8": "custom/ki-44-propeller",
 		"voxels_atlas": "custom/ki-44-rolling"
 	},
 	"elements": [ 	 
