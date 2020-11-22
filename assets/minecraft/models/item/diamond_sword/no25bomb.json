@@ -3399,5 +3399,15 @@
 				"east": { "uv": [ 11.3125, 10.9375, 11.1875, 11 ], "texture": "#voxels_atlas" }
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ 0, -2.2, 0 ],
+			"scale":  [ 0.583, 0.583, 0.583 ]
+		},
+		"thirdperson_lefthand": {
+			"translation":  [ 0, -2.2, 0 ],
+			"scale":  [ 0.583, 0.583, 0.583 ]
+		}
+	}
 }

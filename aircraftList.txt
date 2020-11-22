@@ -115,3 +115,10 @@ Durability	Aircraft
 114			Nakajima ki-49 Helen(right wing Parking)
 115			Nakajima ki-49 Helen(right wing rolling)
 116			Nakajima ki-49 Helen(right wing flying)
+117			Type94 100kg bomb
+118			no80 bomb
+119			Reggiane Re.2005(Parking)
+120			Reggiane Re.2005(rolling)
+121			Reggiane Re.2005(flying)
+
+

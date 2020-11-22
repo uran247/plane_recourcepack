@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "items/particle",
 		"texture": "items/texture",
-		"texture1": "custom/n1k2-propeller",
+		"texture1": "custom/empty",
 		"voxels_atlas": "custom/n1k2-flying"
 	},
 	"elements": [ 	 
