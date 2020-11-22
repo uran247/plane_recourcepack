@@ -10070,21 +10070,11 @@
 		}
 	],
 	"display": {
-		"thirdperson_righthand": {
-<<<<<<< HEAD
-			
-=======
-			"rotation":  [ 90, 0, 0 ],
->>>>>>> cd1220a4f824038001c3999e67b37c61044924fa
+		"thirdperson_righthand": {			
 			"translation":  [ -6, 0, 4.5 ],
 			"scale":  [ 3.31, 3.31, 3.31 ]
 		},
-		"thirdperson_lefthand": {
-<<<<<<< HEAD
-			
-=======
-			"rotation":  [ 90, 0, 0 ],
->>>>>>> cd1220a4f824038001c3999e67b37c61044924fa
+		"thirdperson_lefthand": {			
 			"translation":  [ -6, 0, 4.5 ],
 			"scale":  [ 3.31, 3.31, 3.31 ]
 		}
