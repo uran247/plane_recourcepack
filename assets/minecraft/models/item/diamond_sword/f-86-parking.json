@@ -26152,12 +26152,20 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
+<<<<<<< HEAD
 			
+=======
+			"rotation":  [ 90, 0, 0 ],
+>>>>>>> cd1220a4f824038001c3999e67b37c61044924fa
 			"translation":  [ -6, 0, 18 ],
 			"scale":  [ 3.8, 3.8, 3.8 ]
 		},
 		"thirdperson_lefthand": {
+<<<<<<< HEAD
 			
+=======
+			"rotation":  [ 90, 0, 0 ],
+>>>>>>> cd1220a4f824038001c3999e67b37c61044924fa
 			"translation":  [ -6, 0, 18 ],
 			"scale":  [ 3.8, 3.8, 3.8 ]
 		}

@@ -65,6 +65,7 @@ Durability	Aircraft
 64			Vought F4U Corsair(Right wing)
 65			Vought F4U Corsair(Left wing)
 66			HVAR
+<<<<<<< HEAD
 67			Nakajima Ki-43(Parking)
 68			Nakajima Ki-43(Rolling)
 69			Nakajima Ki-43(Flying)
@@ -122,3 +123,5 @@ Durability	Aircraft
 121			Reggiane Re.2005(flying)
 
 
+=======
+>>>>>>> cd1220a4f824038001c3999e67b37c61044924fa
