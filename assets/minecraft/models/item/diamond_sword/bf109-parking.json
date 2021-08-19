@@ -12559,11 +12559,11 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation":  [ -6, 0, 4.5 ],
+			"translation":  [ 0, -1.5, 30 ],
 			"scale":  [ 3.31, 3.31, 3.31 ]
 		},
 		"thirdperson_lefthand": {
-			"translation":  [ -6, 0, 4.5 ],
+			"translation":  [ 0, -1.5, 30 ],
 			"scale":  [ 3.31, 3.31, 3.31 ]
 		},
 		"head": {

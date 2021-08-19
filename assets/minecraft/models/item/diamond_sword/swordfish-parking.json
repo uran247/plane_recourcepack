@@ -19355,7 +19355,7 @@
 	"display": {
 		"thirdperson_righthand": {
 			
-			"translation":  [ -22, -28, 17.5 ],
+			"translation":  [ -15, -4, -5 ],
 			"scale":  [ 3.775, 3.975, 3.975 ]
 		},
 		"thirdperson_lefthand": {

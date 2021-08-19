@@ -1308,12 +1308,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			
-			"translation":  [ 13.72, 0, 26 ],
+			"translation":  [ 20.72, 10.5, -15 ],
 			"scale":  [ 3.748, 3.748, 3.748 ]
 		},
 		"thirdperson_lefthand": {
 			
-			"translation":  [ -25, 0, 26 ],
+			"translation":  [ 20.72, 10.5, -15 ],
 			"scale":  [ 3.748, 3.748, 3.748 ]
 		}
 	}

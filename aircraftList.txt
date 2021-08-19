@@ -120,5 +120,11 @@ Durability	Aircraft
 119			Reggiane Re.2005(Parking)
 120			Reggiane Re.2005(rolling)
 121			Reggiane Re.2005(flying)
+122			AN-M65 bomb
+123			SC50 bomb
+124			SC500 bomb
+125			Seafury FB11(Parking)
+126			Seafury FB11(rolling)
+127			Seafury FB11(flying)
 
 

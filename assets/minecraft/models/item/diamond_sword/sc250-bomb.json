@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "items/particle",
 		"texture": "items/texture",
-		"ju87-bomb": "custom/ju87-bomb"
+		"ju87-bomb": "custom/sc250-bomb"
 	},
 	"elements": [ 	 
 		{
@@ -966,12 +966,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			
-			"translation":  [ -25, 0, 26 ],
+			"translation":  [ -19, 23.25, 30 ],
 			"scale":  [ 3.748, 3.748, 3.748 ]
 		},
 		"thirdperson_lefthand": {
 			
-			"translation":  [ -25, 0, 26 ],
+			"translation":  [ -19, 23.25, 30 ],
 			"scale":  [ 3.748, 3.748, 3.748 ]
 		}
 	}
