@@ -18592,6 +18592,11 @@
 		"thirdperson_lefthand": {
 			"translation":  [ 0, -2, -1 ],
 			"scale":  [ 3.9, 3.9, 4.1 ]
+		},
+		"fixed": {
+			"rotation": [-76, 0 ,0 ],
+			"translation":  [ 0, 0, -4 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
 		}
 	}
 }

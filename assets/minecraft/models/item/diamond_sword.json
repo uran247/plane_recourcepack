@@ -150,7 +150,19 @@
 		{ "predicate": {"custom_model_data": 144}, "model": "item/diamond_sword/p-38-parking"},
 		{ "predicate": {"custom_model_data": 145}, "model": "item/diamond_sword/p-38-rolling"},
 		{ "predicate": {"custom_model_data": 146}, "model": "item/diamond_sword/p-38-flying"},
-		{ "predicate": {"custom_model_data": 147}, "model": "item/diamond_sword/p-38-rightwing"}
-
+		{ "predicate": {"custom_model_data": 147}, "model": "item/diamond_sword/p-38-rightwing"},
+		{ "predicate": {"custom_model_data": 148}, "model": "item/diamond_sword/r4m"},
+		{ "predicate": {"custom_model_data": 149}, "model": "item/diamond_sword/r4m-fly"},
+		{ "predicate": {"custom_model_data": 150}, "model": "item/diamond_sword/b-17g-body-parking"},
+		{ "predicate": {"custom_model_data": 151}, "model": "item/diamond_sword/b-17g-body-rolling"},
+		{ "predicate": {"custom_model_data": 152}, "model": "item/diamond_sword/b-17g-body-flying"},
+		{ "predicate": {"custom_model_data": 153}, "model": "item/diamond_sword/b-17g-tail-parking"},
+		{ "predicate": {"custom_model_data": 154}, "model": "item/diamond_sword/b-17g-tail-flying"},
+		{ "predicate": {"custom_model_data": 155}, "model": "item/diamond_sword/b-17g-rightwing-parking"},
+		{ "predicate": {"custom_model_data": 156}, "model": "item/diamond_sword/b-17g-rightwing-rolling"},
+		{ "predicate": {"custom_model_data": 157}, "model": "item/diamond_sword/b-17g-rightwing-flying"},
+		{ "predicate": {"custom_model_data": 158}, "model": "item/diamond_sword/b-17g-leftwing-parking"},
+		{ "predicate": {"custom_model_data": 159}, "model": "item/diamond_sword/b-17g-leftwing-rolling"},
+		{ "predicate": {"custom_model_data": 160}, "model": "item/diamond_sword/b-17g-leftwing-flying"}
 	]
 }
